@@ -1,0 +1,6 @@
+/Users/albert/RiderProjects/laba5/laba5/bin/Debug/laba5.exe
+/Users/albert/RiderProjects/laba5/laba5/bin/Debug/laba5.pdb
+/Users/albert/RiderProjects/laba5/laba5/obj/Debug/laba5.csproj.AssemblyReference.cache
+/Users/albert/RiderProjects/laba5/laba5/obj/Debug/laba5.csproj.CoreCompileInputs.cache
+/Users/albert/RiderProjects/laba5/laba5/obj/Debug/laba5.exe
+/Users/albert/RiderProjects/laba5/laba5/obj/Debug/laba5.pdb
